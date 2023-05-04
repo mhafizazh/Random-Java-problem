@@ -4,6 +4,8 @@ Enter number between 1 and 10: -5
 -5 is not between 1 and 10, try again: 12
 12 is not between 1 and 10, try again: 4
 4 is between 1 and 10
+
+
  */
 
 import java.util.Scanner;
